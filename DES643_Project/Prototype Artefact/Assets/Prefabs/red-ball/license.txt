@@ -1,0 +1,11 @@
+Model Information:
+* title:	red-ball
+* source:	https://sketchfab.com/3d-models/red-ball-639e69624f6044b096e47923b5473197
+* author:	Mylom (https://sketchfab.com/Mylom)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "red-ball" (https://sketchfab.com/3d-models/red-ball-639e69624f6044b096e47923b5473197) by Mylom (https://sketchfab.com/Mylom) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Test Light Saber Glow Animation
+* source:	https://sketchfab.com/3d-models/test-light-saber-glow-animation-cc789e630fb644d3b63e6898b5bb8533
+* author:	Matt Joos (https://sketchfab.com/mathiasjoos)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Test Light Saber Glow Animation" (https://sketchfab.com/3d-models/test-light-saber-glow-animation-cc789e630fb644d3b63e6898b5bb8533) by Matt Joos (https://sketchfab.com/mathiasjoos) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
